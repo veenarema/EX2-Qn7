@@ -1,0 +1,4 @@
+Z = int(input("Enter a Atomic number\n"))
+A = int(input("Enter a Mass number\n"))
+N = A-Z
+print("The number of neutrons =",N)
